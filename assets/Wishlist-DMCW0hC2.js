@@ -1,0 +1,1 @@
+import{t as e}from"./index-flyAN8_L.js";var t=e();function n(){return(0,t.jsx)(`div`,{})}export{n as default};
