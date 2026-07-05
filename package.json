@@ -2,6 +2,7 @@
   "name": "hotel-search",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ishi2301.github.io/Hotel-Search/",
   "type": "module",
   "scripts": {
     "dev": "vite",
